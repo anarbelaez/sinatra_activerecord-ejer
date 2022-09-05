@@ -1,0 +1,26 @@
+DELICIOUS FINDER
+
+Colores
+
+:root {
+  --grullo: rgb(168, 159, 148);
+  --deep-carmine: rgb(171, 48, 64);
+  --orioles-orange: rgb(245, 60, 27);
+  --pastel-orange: rgb(254, 178, 69);
+  --lotion: rgb(252, 252, 250);
+  --june-bud: rgb(198, 215, 74);
+  --eerie-black: rgb(26, 26, 26);
+}
+
+Agregar rating a los restaurantes
+
+Comidas
+Desayuno, brunch, almuerzo, cena
+
+Tipo de cocina
+Churranquería, Mariscos, Italiana, Heladería, Café, Colombiana, Contemporánea
+Japonesa, Comida rápida
+
+
+Border radius
+72% 28% 49% 51% / 33% 63% 37% 67%

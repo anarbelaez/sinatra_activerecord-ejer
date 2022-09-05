@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,500;1,400&display=swap');
+
+:root {
+  --deep-carmine: rgb(171, 48, 64);
+  --orioles-orange: rgb(255, 98, 0);
+  --pastel-orange: rgb(254, 178, 69);
+  --june-bud: rgb(135, 169, 0);
+  --lotion: rgb(252, 252, 250);
+  --grullo: rgb(168, 159, 148);
+  --eerie-black: rgb(31, 31, 31);
+}
+
+.bg-yellow {
+  background-color: rgb(231, 237, 210);
+}
+
+.text-orange {
+  color: var(--orioles-orange);
+}
+
+.text-lotion {
+  color: var(--lotion);
+}
+
+.text-merriweather {
+  font-family: 'Merriweather', serif;
+}
+
+.btn-green, .btn-green:hover {
+  background-color: var(--june-bud);
+  border-color: transparent;
+}
+
+.btn-pill {
+  border-radius: 50px;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color: rgb(252, 255, 239);
+  color: var(--eerie-black);
+}
+
+/* Sections - General rules */
+section {
+  padding: 20px 0;
+}
+
+
+.section1 {
+  /* height: 500px; */
+  padding: 80px 0;
+}
+
+.section1 h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.section1 img {
+  border-radius: 72% 28% 49% 51% / 33% 63% 37% 67%;
+  box-shadow: 1px 1px 2px rgb(208, 208, 208);
+  border: 3px var(--pastel-orange) solid;
+  padding: 3px;
+}
+
+.card {
+  width: 18rem;
+}
+
+/* End Sections - General rules */
